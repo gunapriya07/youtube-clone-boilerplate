@@ -1,0 +1,162 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+logo{
+    color: white;
+
+}
+h5{
+    color: white;
+    position:relative;
+    left:36px;
+    bottom:20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+}
+.nav{
+    word-spacing: 0px;
+    background-color: grey;
+}
+section{
+    color:white;
+    display:flex;
+    justify-content: lift;
+    direction: right;
+    border-style:ridge;
+    width:25%;
+    height:10%;
+}
+.search{
+    position:relative;
+    left:80%;
+    top:0px;
+    bottom:0px;
+    right:8px;
+}
+.second{
+    display:flex;
+    justify-content: center;
+    position:relative;
+    left: 0px;
+    bottom:690px;
+    background: none;
+}
+.mic{
+    position:relative;
+    left:250px;
+}
+.create{
+    position:relative;
+    left:470px;
+}
+.more{
+    position:relative;
+    left: 480px;
+}
+.bell{
+    position:relative;
+    left:490px;
+}
+.user{
+    position:relative;
+    left:500px;
+}
+.hr{
+    position:relative;
+    left:300px;
+    bottom:690px;
+
+}
+.position{
+    color: white;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    bottom:670px;
+    left:80px;
+}
+.all{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.cookstudio{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.ux{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.casestudy{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+   
+}
+.music{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.bnaglalofi{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.tour{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.saintmarin{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+.tech{
+    border-style:ridge;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+   
+}
+.interface{
+    border-style:ridge;
+    width:100px;
+    height:20px;
+    border-radius: 5px;
+    position:relative;
+    left:120px;
+    
+}
+.compute{
+    border-style:ridge;
+    width:60px;
+    height:20px;
+    border-radius: 5px;
+    position:relative;
+    left:135px;
+    
+}
